@@ -1,0 +1,54 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Lauren",
+            "LastName": "Boyle*",
+            "Email": "rkripanandan@salesforce.com",
+            "AccountId": "@AccountRef10"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "FirstName": "James",
+            "LastName": "Davie*",
+            "Email": "jd@mailinator.com",
+            "AccountId": "@AccountRef10"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "FirstName": "Bob",
+            "LastName": "Hodges",
+            "Email": "bhodges@mailinator.com",
+            "AccountId": "@AccountRef10"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "FirstName": "Larry",
+            "LastName": "Boyle",
+            "Email": "larry.boyle@mailnator.com",
+            "AccountId": "@AccountRef10"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "FirstName": "Mark",
+            "LastName": "Kingston*",
+            "Email": "mk@mailinator.com",
+            "AccountId": "@AccountRef10"
+        }
+    ]
+}
