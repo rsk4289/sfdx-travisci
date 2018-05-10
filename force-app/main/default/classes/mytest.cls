@@ -5,6 +5,6 @@ private class mytest {
     static void myUnitTest() {
         myclass demo = new myclass();
 	System.debug('Test starting');
-        System.assertEquals(demo.getAppVersion(), '1.0.6');
+        System.assertEquals(demo.getAppVersion(), '1.0.7');
     }
 }
